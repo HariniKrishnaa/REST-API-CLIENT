@@ -27,3 +27,8 @@ Throughout the project, I learned how REST APIs work, how to send requests and h
 This project is highly relevant and practical, as API consumption is a vital skill in modern software development. The concept can be extended to consume other APIs for different domains such as finance, sports, news, or healthcare. The ability to fetch and display live data has many real-world applications, including building weather apps, news feeds, and live stock trackers.
 
 In conclusion, this project helped me solidify my understanding of integrating Java applications with RESTful APIs. I now have hands-on experience in handling network requests, parsing JSON data, and presenting information meaningfully to the end-user. It served as a strong foundation for more complex projects involving API integration, data visualization, and even UI-based applications in the future.
+
+
+*OUTPUT* :
+
+![Image](https://github.com/user-attachments/assets/3b9a8cc8-cb90-4c8d-bbd6-96ac3a0b05db)
